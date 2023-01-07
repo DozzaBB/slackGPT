@@ -1,0 +1,26 @@
+{
+  "name": "stonkgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/eslint-parser": "^7.19.1",
+    "@slack/bolt": "^3.12.2",
+    "chatgpt": "^3.3.10",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-unicorn": "^42.0.0",
+    "puppeteer": "^19.4.1"
+  }
+}
