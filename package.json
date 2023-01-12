@@ -16,7 +16,7 @@
     "@babel/eslint-parser": "^7.19.1",
     "@babel/preset-env": "^7.20.2",
     "@slack/bolt": "^3.12.2",
-    "chatgpt": "^3.3.10",
+    "chatgpt": "^3.4.1",
     "dotenv": "^16.0.3",
     "eslint": "^8.31.0",
     "eslint-config-airbnb-base": "^15.0.0",
